@@ -1,0 +1,11 @@
+Projet de programmation réseaux "IPortBook"
+
+
+Réalisation d'un système permettant à différentes entités clients d'établir des relations et de communiquer entre elles. Fonctionnement inspiré des réseaux sociaux.
+
+Compilation: make
+
+Utilisation: Client et promoteur -Djava.net.preferIPv4Stack=true
+Aller dans le répertoire bin et exécuter le client, le promoteur et le serveur.
+
+
